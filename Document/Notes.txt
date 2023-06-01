@@ -1,0 +1,35 @@
+resnet152
+
+>>Type of Deep Learning : (Input Data , Computation Complexity, Accuracy,
+1.Supervised - (Using  labels to predicit the outcome) 1.training 2. Testing ; Method => 1.Regression Algorithum and Classified Algoritum 
+2.unsupervised - (Not Using  labels in input to predicit the outcome) Method : Clustoring and Association
+3.Reinforsment Learning - learn from punishment.
+
+
+gpu
+tpu
+tensor
+preseptron
+automatic feature extraction
+
+>>Knowledge of  : -
+	1.Linear Algebra ,probability and Statistics
+	2.Algorithums S FrameWorks
+	3.Communication and Problem solving Skills
+
+>>Models eg : Hidden MArkov Models ,Naive Bayes
+
+>>Big Data Technologies  such as Apache Sparak , Hadoop
+
+>>Database used : Mongo DB or Cassandra
+
+>>Type of AI
+1.Narror AI : - face recog
+2.General AI : - Siri
+3.Super AI : - machine just like or better than Humans
+
+>>Job Roles:
+	1.AI Developer - 
+	2.AI Architect - Architeck the entire solution
+	3.BI Dveloper -BussinessVisualization 
+	4.ML Engineer 
