@@ -5,12 +5,14 @@ resnet152
 2.unsupervised - (Not Using  labels in input to predicit the outcome) Method : Clustoring and Association
 3.Reinforsment Learning - learn from punishment.
 
-
+Chckout Words:
++++++++++++++
 gpu
 tpu
 tensor
 preseptron
 automatic feature extraction
+precision in CS
 
 >>Knowledge of  : -
 	1.Linear Algebra ,probability and Statistics
